@@ -40,13 +40,6 @@
                 "url": "/",
                 "altText": "Sign in",
                 "style": "link"
-            },
-            {
-                "type": "Button",
-                "label": "Sign up Now EDIT",
-                "url": "/",
-                "altText": "Sign up",
-                "style": "secondary"
             }
         ]
     },
